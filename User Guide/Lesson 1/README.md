@@ -9,7 +9,7 @@ web_page = load_basic()
 path = '/home/pi/index.html'
 open_in_browser(path)
 ```
-output
+<a href="assets/ss1.png">Output</a>
 <img src="assets/ss1.png">
 
 # As you see you created a basic website, now let me explain the code

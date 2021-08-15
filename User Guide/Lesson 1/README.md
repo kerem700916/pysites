@@ -9,7 +9,7 @@ web_page = load_basic()
 open_in_browser()
 ```
 output
-<img src="ss1.png">
+<img src="User Guide/Lesson 1/assets/ss1.png">
 
 # As you see you created a basic website, now let me explain the code
 ```python

@@ -9,8 +9,7 @@ web_page = load_basic()
 open_in_browser()
 ```
 output
-<img src="https://github.com/kerem700916/pysites/blob/c51d72fdb6e8d61b11ae1d5c61e2c0386b5fafbf/User%20Guide/Lesson%201/assets/ss1.png">
-
+[ss1.png]
 # As you see you created a basic website, now let me explain the code
 ```python
 import pysites # importing the library
